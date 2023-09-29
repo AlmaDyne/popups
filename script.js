@@ -29,7 +29,7 @@ function createPopUpWindow() {
     popup.document.write(`
         <link rel="stylesheet" href="style.css">
         <body class="popup-style">
-            <div class="time"><b>00:03</b></div>
+            <div class="time"><b>01:00</b></div>
             <div class="fig-anim"></div>
             <script async src="popup_script.js" type="module"></script>
         </body>
